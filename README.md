@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Drakencreates/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -12,6 +13,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Drakencreates/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Hash Table
 |  |
@@ -30,4 +32,12 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Drakencreates/leetcode/tree/master/0041-first-missing-positive) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
