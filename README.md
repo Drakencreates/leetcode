@@ -7,6 +7,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Drakencreates/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Drakencreates/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Drakencreates/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -20,6 +21,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Drakencreates/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Drakencreates/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Drakencreates/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Hash Table
 |  |
@@ -49,6 +51,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Drakencreates/leetcode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Drakencreates/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
@@ -63,4 +66,8 @@
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Drakencreates/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
