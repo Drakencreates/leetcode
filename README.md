@@ -26,11 +26,13 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drakencreates/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Drakencreates/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drakencreates/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Drakencreates/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Drakencreates/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
@@ -54,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
