@@ -35,6 +35,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drakencreates/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Drakencreates/leetcode/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Drakencreates/leetcode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Math
 |  |
