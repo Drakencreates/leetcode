@@ -70,4 +70,8 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Drakencreates/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
