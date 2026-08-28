@@ -15,6 +15,7 @@
 | [0100-same-tree](https://github.com/Drakencreates/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Drakencreates/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Drakencreates/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Drakencreates/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Drakencreates/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
@@ -54,6 +56,7 @@
 | [0100-same-tree](https://github.com/Drakencreates/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Drakencreates/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -76,4 +79,12 @@
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Drakencreates/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
