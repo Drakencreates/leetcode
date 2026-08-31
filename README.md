@@ -90,4 +90,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Drakencreates/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
