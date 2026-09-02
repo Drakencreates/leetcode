@@ -52,6 +52,7 @@
 | [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Drakencreates/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Drakencreates/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Drakencreates/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Drakencreates/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
 | ------- |
