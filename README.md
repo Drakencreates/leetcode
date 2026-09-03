@@ -10,6 +10,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Drakencreates/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Drakencreates/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Drakencreates/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Drakencreates/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Drakencreates/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Drakencreates/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
