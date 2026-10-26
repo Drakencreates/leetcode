@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drakencreates/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Drakencreates/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -49,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Drakencreates/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
@@ -94,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
@@ -105,4 +108,16 @@
 | [0176-second-highest-salary](https://github.com/Drakencreates/leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Drakencreates/leetcode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Drakencreates/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
