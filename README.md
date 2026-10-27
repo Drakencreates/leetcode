@@ -87,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Drakencreates/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Drakencreates/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
@@ -120,4 +121,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
