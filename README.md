@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Drakencreates/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Drakencreates/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Drakencreates/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Drakencreates/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Drakencreates/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Drakencreates/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Drakencreates/leetcode/tree/master/0090-subsets-ii) |
