@@ -61,6 +61,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drakencreates/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Drakencreates/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Drakencreates/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Drakencreates/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Drakencreates/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
@@ -99,6 +100,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drakencreates/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Drakencreates/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Drakencreates/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Drakencreates/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
