@@ -58,6 +58,7 @@
 | [0078-subsets](https://github.com/Drakencreates/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Drakencreates/leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Drakencreates/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drakencreates/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Drakencreates/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -98,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drakencreates/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Drakencreates/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -165,4 +167,24 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Drakencreates/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
