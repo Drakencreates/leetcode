@@ -99,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Drakencreates/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drakencreates/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
@@ -145,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Drakencreates/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Drakencreates/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
@@ -154,6 +156,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Drakencreates/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Drakencreates/leetcode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
