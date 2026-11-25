@@ -36,6 +36,7 @@
 | [0037-sudoku-solver](https://github.com/Drakencreates/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Drakencreates/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Drakencreates/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -43,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drakencreates/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Drakencreates/leetcode/tree/master/0071-simplify-path) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Drakencreates/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drakencreates/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Drakencreates/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Drakencreates/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakencreates/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Drakencreates/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Drakencreates/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
