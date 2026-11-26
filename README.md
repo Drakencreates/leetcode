@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Drakencreates/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Drakencreates/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Drakencreates/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Drakencreates/leetcode/tree/master/0071-simplify-path) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Drakencreates/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -151,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Drakencreates/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Drakencreates/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Drakencreates/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Drakencreates/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -197,4 +199,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Drakencreates/leetcode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Drakencreates/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Drakencreates/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
